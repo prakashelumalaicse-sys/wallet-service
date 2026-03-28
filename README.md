@@ -23,9 +23,15 @@
   Deposit / Withdraw
   
   POST/api/v1/wallet
-  Request:
+  Sample Response
    {
     "walletId": "11111111-1111-1111-1111-111111111111",
     "operationType": "DEPOSIT",
     "amount": 1000
   }  
+  
+Developed by Prakash
+ - This project was built as part of backend interview preparation.
+
+
+  
