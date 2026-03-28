@@ -21,6 +21,7 @@
 
 4.API Endpoints
   Deposit / Withdraw
+  
   POST/api/v1/wallet
   Request:
    {
